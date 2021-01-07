@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/simonderekhughes/simonderekhughes/_apis/build/status/simonderekhughes.pipelines-java?branchName=master)](https://dev.azure.com/simonderekhughes/simonderekhughes/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
